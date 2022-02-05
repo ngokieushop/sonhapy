@@ -1,0 +1,42 @@
+
+#copyright {
+	font-size: 13px;
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+#copyright p {
+	line-height: 15px;
+	color:#fff;
+	text-align:center;
+}
+
+#copyright #termsPrivacyLinks {
+	font-size: 13px;
+	margin: 1px;
+	line-height: 20px;
+}
+
+#copyright #termsPrivacyLinks  a {
+  color: #D3282D;
+  text-decoration: none;
+  background-color: transparent!important;
+}
+
+#copyright #copyrightLine {
+	font-size: 13px;
+	margin: 1px;
+	}
+	
+#copyright #lemLine {
+	font-size: 11px;
+	margin: 0;
+	}
+	
+#copyright #reservedLine {
+	font-size: 13px;
+	margin-top: 1px;
+	}
+	
+#copyright #FDA {
+	font-size: 11px;
+}

@@ -1,0 +1,9 @@
+#common-epriv { text-align: left; }
+#common-epriv ul { margin-bottom: 10px; padding: 0px; list-style-type: disc; }
+#common-epriv ul li { font-size: 11px; margin-left: 30px; }
+#common-epriv p { font-size: 11px; margin-bottom: 10px; }
+#common-epriv p.updated { font-size: 9px; }
+#common-epriv p.copy { font-size: 9px; font-style: italic; }
+#common-epriv blockquote { margin: 0 0 10px 30px; font-size: 11px; }
+#common-epriv a { background-color:transparent; color: #E20202;}
+#epriv .features-row{ margin-top: 5px; }
